@@ -5,17 +5,6 @@ The **MRI-Based-Dementia-Progression-Prediction** project aims to predict the pr
 
 The dataset used for this project consists of longitudinal MRI data of 150 subjects, aged 60 to 96, with over 370 imaging sessions. These subjects include both non-demented and demented individuals, providing a comprehensive dataset for training and evaluation.
 
-## Installation
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-   - `git clone https://github.com/your-username/MRI-Based-Dementia-Progression-Prediction.git`
-
-2. Navigate to the project directory:
-   - `cd MRI-Based-Dementia-Progression-Prediction`
-
-3. Install the required dependencies:
-   - `pip install --upgrade -r requirements.txt`
 
 ## Dataset
 The dataset consists of the following key features:
@@ -86,13 +75,6 @@ The project evaluated different classification strategies:
   - **Recall**: 87%
   - **F1 Score**: 87%
   
-## Contributing
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a pull request.
 
 
